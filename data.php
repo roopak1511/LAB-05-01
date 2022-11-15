@@ -4,7 +4,7 @@
 $servername = 'inventory-db-roopak-instance-1.ckdep8chbjij.ap-south-1.rds.amazonaws.com';
 $username = 'master';
 $password = 'lab-password';
-$database = 'inventory';
+$database = 'inventory_roopak';
 $table = 'products';
 
 // Create connection
